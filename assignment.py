@@ -1,2 +1,2 @@
-def greeting(name):
-  print("Welcome to my assignment ",name)
+def greeting(name,number):
+  print("Welcome to the assignment{}, {}".format(number, name))
